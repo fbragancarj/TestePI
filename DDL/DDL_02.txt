@@ -1,0 +1,4 @@
+# Arquivo Oracle DDL
+# Versão 1.00
+
+Versão inicial do arquivo DDL_02.txt
