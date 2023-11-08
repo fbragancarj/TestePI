@@ -1,0 +1,4 @@
+# Arquivo Oracle Forms
+# Versão 1.00
+
+Versão inicial do arquivo Forms_02.txt

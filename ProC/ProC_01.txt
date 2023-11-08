@@ -1,0 +1,4 @@
+# Arquivo Oracle ProC
+# Versão 1.00
+
+Versão inicial do arquivo ProC_01.txt

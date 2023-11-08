@@ -1,0 +1,4 @@
+# Arquivo Oracle StoredProcedure
+# Versão 1.00
+
+Versão inicial do arquivo SProc_01.txt
