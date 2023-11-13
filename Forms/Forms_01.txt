@@ -1,5 +1,5 @@
 # Arquivo Oracle Forms
-# Versão 1.03
+# Versão 1.04
 
 Versão inicial do arquivo Forms_01.txt
 
@@ -7,5 +7,4 @@ Release Notes
 Novo conteudo da versao 1.01
 1.02 - Bla bla bla
 1.03 - Novo conteudo e delecao da ultima linha
-
-Conteudo da ft_0002
+1.04 - Remocao do conteudo da versao 1.02
