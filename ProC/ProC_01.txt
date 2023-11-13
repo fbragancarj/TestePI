@@ -1,4 +1,6 @@
 # Arquivo Oracle ProC
-# Versão 1.00
+# Versão 1.01
 
 Versão inicial do arquivo ProC_01.txt
+
+1.01 - Versao compativel com o Forms_01.txt V1.03
