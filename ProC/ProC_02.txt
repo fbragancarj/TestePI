@@ -1,6 +1,4 @@
 # Arquivo Oracle ProC
-# Versão 1.01
+# Versão 1.00
 
 Versão inicial do arquivo ProC_02.txt
-
-1.01 - Alteracao versao 1.01
